@@ -1,5 +1,5 @@
 {
-  "name": "js-utility-functions",
+  "name": "js-utility-func",
   "version": "1.0.0",
   "description": "utility functions for make productivity easier",
   "main": "./dist/index.js",
