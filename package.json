@@ -1,0 +1,22 @@
+{
+  "name": "js-utility-functions",
+  "version": "1.0.0",
+  "description": "utility functions for make productivity easier",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/Vignesh-M21/Js"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "utility"
+  ],
+  "author": "",
+  "devDependencies": {
+    "tsup": "^8.3.5",
+    "typescript": "^5.7.2"
+  }
+}

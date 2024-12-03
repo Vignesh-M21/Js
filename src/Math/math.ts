@@ -4,6 +4,7 @@ const random = (max, min) => Math.floor(Math.random() * (max - min + 1)) + min;
 const clamp = (value, min, max) => Math.max(min, Math.min(value, max));
 const toBinary = (num) => (num >>> 0).toString(2);
 const randomInt = random(min, max);
+
 console.log(randomInt); // Random number between 1 and 10
 
 console.log(random);
